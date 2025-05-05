@@ -42,7 +42,3 @@ Trains or uses a pre-trained NLC model to categorize the news articles (e.g., po
 ### 🔹 Search Engine
 Accepts user input to fetch relevant articles based on category or keyword matching.
 
----
-
-## 📁 Folder Structure
-
